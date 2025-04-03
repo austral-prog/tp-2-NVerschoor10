@@ -12,12 +12,12 @@ def change():
     c = b-p
     c = c*100
     c = int(c)
-    print(" ")
+    print("")
     print("Vuelto")
-    print(" ")
-    print("Pesos")
+    print("")
+    print("Pesos:")
     print(p)
-    print("Centavos")
+    print("Centavos:")
     print(c)
 
 change()
